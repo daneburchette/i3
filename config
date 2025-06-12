@@ -12,28 +12,28 @@ set $up k
 set $right l
 
 # Common utilities
-set $terminal alacritty
-set $terminalLaunch alacritty -e
+set $terminal ghostty
+set $terminalLaunch ghostty -e
 set $fileManager thunar
 set $menu rofi -show drun
 
 # Wallpaper assignment
-set $wallpaper ~/Pictures/wallpaper/Cyberpunk_tower6.png
+set $wallpaper ~/Pictures/Wallpapers/Cyberpunk_tower6.png
 
 # Font assignment
 set $font jetbrains mono 13
 
 # Workspaces
-set $ws1 "1-terminal"
-set $ws2 "2-web"
-set $ws3 "3-gaming"
-set $ws4 "4-discord"
+set $ws1 "1-terminal  "
+set $ws2 "2-web 󰈹 "
+set $ws3 "3-gaming  "
+set $ws4 "4-discord  "
 set $ws5 "5-code"
-set $ws6 "6-media"
+set $ws6 "6-media  "
 set $ws7 "7-office"
 set $ws8 "8-obsidian"
 set $ws9 "9-editting"
-set $ws0 "0-monitor"
+set $ws0 "0-monitor  "
 
 # Monitor settings
 include ./monitors.conf
