@@ -14,14 +14,14 @@ set $right l
 # Common utilities
 set $terminal ghostty
 set $terminalLaunch ghostty -e
-set $fileManager thunar
+set $fileManager "ghostty -e ranger"
 set $menu rofi -show drun
 
 # Wallpaper assignment
 set $wallpaper ~/Pictures/Wallpapers/Cyberpunk_tower6.png
 
 # Font assignment
-set $font jetbrains mono 13
+set $font JetBrainsMono Nerd 13
 
 # Workspaces
 set $ws1 "1-terminal  "
