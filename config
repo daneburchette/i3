@@ -26,7 +26,7 @@ set $font JetBrainsMono Nerd 13
 
 # Workspaces
 set $ws1 "1-terminal  "
-set $ws2 "2-web 󰈹 "
+set $ws2 "2-web  "
 set $ws3 "3-gaming  "
 set $ws4 "4-discord  "
 set $ws5 "5-code"
