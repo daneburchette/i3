@@ -12,11 +12,11 @@ set $up k
 set $right l
 
 # Common utilities
-set $terminal ghostty
-set $terminalLaunch ghostty -e
-set $fileManager "ghostty -e ranger"
+set $terminal alacritty
+set $terminalLaunch alacritty -e
+set $fileManager "alacritty -e yazi"
 set $menu rofi -show drun
-set $browser "flatpak run com.brave.Browser"
+set $browser brave
 
 # Wallpaper assignment
 set $wallpaper ~/Pictures/Wallpapers/Cyberpunk_tower6.png
