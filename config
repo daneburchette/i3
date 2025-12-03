@@ -19,7 +19,7 @@ set $menu rofi -show drun
 set $browser "flatpak run com.brave.Browser"
 
 # Wallpaper assignment
-set $wallpaper ~/Pictures/Wallpapers/Cyberpunk_tower6.png
+set $wallpaper ~/Pictures/Wallpapers/Cyberpunk_tower7.png
 
 # Font assignment
 set $font JetBrainsMono Nerd 13
@@ -37,8 +37,8 @@ set $ws9 "9-editting"
 set $ws0 "0-monitor  "
 
 # Colorscheme
-# include ./colors/kanagawa.conf
-include ./colors/tokyonight.conf
+include ./colors/kanagawa.conf
+# include ./colors/tokyonight.conf
 
 # Monitor settings
 include ./monitors.conf
